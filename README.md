@@ -3,7 +3,7 @@
 Please complete the below 6 steps (feel free to use any libraries you would like)
 
 1. download this repo and run it locally
-2. refactor the Car from a class into a hook. Also make it a typescript file and type everything.
+2. refactor the Car component from `/src/components` from a class into a hook. Also make it a typescript file and type everything.
 3. when the user clicks the `Change Color` button, the color of the header text should change to green. (ie the My Ford text)
 4. create a new page so that if the user goes to `http://localhost:3000/test` they see a new page with the word `test` on it. There should also be another link on that page that the user can click that takes them back to `http://localhost:3000`
 5. on `http://localhost:3000` style the button to look like a button from here: `https://v1.tailwindcss.com/components/buttons`
